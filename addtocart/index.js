@@ -11,6 +11,7 @@ var data = [
     {img:"https://images.unsplash.com/photo-1511300961358-669ca3ad05af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1667&q=80", product: "Earpods", addtocart: true},
     {img:"https://images.unsplash.com/photo-1572008470047-07990888f81b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80", product: "Fitband", addtocart: true},
     {img:"https://images.unsplash.com/photo-1507646227500-4d389b0012be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80", product: "Speakers", addtocart: true},
+     {img:"https://images.unsplash.com/photo-1507646227500-4d389b0012be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80", product: "Speakers", addtocart: true},
 ]
  
 var finalCart = [];
